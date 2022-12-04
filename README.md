@@ -1,6 +1,6 @@
 # CHATROOM
 ## First Look
-![First Look](./images/Capture.PNG)
+![First Look](https://gdurl.com/GE2MN)
 
 ## About
 ```
@@ -24,25 +24,25 @@
 ## User Login
 Here just enter username and room you want to join.
 
-![Login](./images/userLogin.PNG)
+![Login](https://gdurl.com/0p9b)
 
 
 ## Enter in the room
 
-![Room](./images/LoggedIn.PNG)
+![Room](https://gdurl.com/LHPZ)
 
 ## Chat
 Here you can chat in a room with others.
 
-![Chat](./images/chat.PNG)
+![Chat](https://gdurl.com/TBAM)
 
 ## Leaving
 
-![Leave](./images/Leave.PNG)
+![Leave](https://drive.google.com/file/d/1jxvqOyBW4WoO_1nHA5QzRVWqA0x7f68d/view?usp=share_link)
 
 ## Left the Chat
 
-![Left Chat](./images/leftChat.PNG)
+![Left Chat](https://gdurl.com/anZv)
 
 ## How to start
 ```
